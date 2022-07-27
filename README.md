@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/5f3mqT7.png)
 
-# Snakee#0864
+# [Snakee#0864](https://snakee.ga/invite/)
 
 Es un bot con la finalidad de mantener activo tu servidor con ayuda de nuestras funciones, entre ellas comandos de diversión, generación de imagen, música en canales de voz, de utilidad, de minijuegos y mucho más...
 
